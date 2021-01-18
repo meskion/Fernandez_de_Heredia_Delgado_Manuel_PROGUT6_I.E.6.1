@@ -70,6 +70,8 @@ public class Buscaminas {
 		while (game.alive) {
 			game.tryCell();
 			if (game.alive) {
+				// Solo muestra las minas cuando el juego
+				//se acaba y el jugador explota
 				game.showTablero(true);
 			} else {
 				game.showTablero(false);
