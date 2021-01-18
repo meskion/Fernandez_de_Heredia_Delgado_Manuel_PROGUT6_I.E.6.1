@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"arraysMatrices"},{"l":"buscaMinas"},{"l":"contacto"},{"l":"dynArray"},{"l":"util"}];updateSearchResults();
